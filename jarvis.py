@@ -6,7 +6,6 @@ from github import Github
 
 # إعداد GitHub Token
 GITHUB_TOKENS = [
-    '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',
     "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",
     "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",
     "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",
